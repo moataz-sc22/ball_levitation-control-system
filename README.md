@@ -2,7 +2,7 @@
 ![Screenshot 2024-08-04 121141](https://github.com/user-attachments/assets/d88ad114-47f6-4a82-b8c4-88c65c60f215)
 
 ## function 
-  The 2 ultrasonic sensors measure the error between the hand and the ball. Then, this error is implemented into A PID controller. After that, the PID controller's output controls the fan speed.
+  The 2 ultrasonic sensors measure the error between the hand and the ball. Then, this error is implemented into A PID controller which is tuned by The Ziegler Nichols method. After that, the PID controller's output controls the fan speed.
   
 ## components 
 ###  Arduino uno and 2 ultrasonic sensors 
