@@ -5,20 +5,20 @@
   The 2 ultrasonic sensors measure the error between the hand and the ball. Then, this error is implemented into A PID controller which is tuned by The Ziegler Nichols method. After that, the PID controller's output controls the fan speed.
   
 ## components 
-###  Arduino uno and 2 ultrasonic sensors 
+ Arduino uno and 2 ultrasonic sensors 
 
-###  DC fan 
+ DC fan 
 
-###  transparent pipe
+ transparent pipe
 
-###  ping pong ball
+  ping pong ball
 
-###  wooden box
+  wooden box
 
 
 
 ## Matlab and model for the system 
-![model ](https://github.com/user-attachments/assets/00036306-27f4-4cf5-b135-6c81c67c93c0) width="300" height="300"
+![model ](https://github.com/user-attachments/assets/00036306-27f4-4cf5-b135-6c81c67c93c0) 
 ![Plant model ](https://github.com/user-attachments/assets/e6d2dda6-4ddd-4d56-8f93-224e96424bcd)
 
 
