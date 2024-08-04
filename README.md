@@ -18,7 +18,7 @@
 
 
 ## Matlab and model for the system 
-![model ](https://github.com/user-attachments/assets/00036306-27f4-4cf5-b135-6c81c67c93c0)
+![model ](https://github.com/user-attachments/assets/00036306-27f4-4cf5-b135-6c81c67c93c0) width="300" height="300"
 ![Plant model ](https://github.com/user-attachments/assets/e6d2dda6-4ddd-4d56-8f93-224e96424bcd)
 
 
