@@ -19,7 +19,8 @@
 
 ## Matlab and model for the system 
 ![model ](https://github.com/user-attachments/assets/00036306-27f4-4cf5-b135-6c81c67c93c0)
-![planet simulink](https://github.com/user-attachments/assets/46910a94-c7ca-476e-8d70-2b49373af3b1)
+![Plant model ](https://github.com/user-attachments/assets/e6d2dda6-4ddd-4d56-8f93-224e96424bcd)
+
 
 ## The response of the model when variable input is applied
 ![response](https://github.com/user-attachments/assets/ad099e35-ce0c-4f0a-8da0-91017eff888b)
