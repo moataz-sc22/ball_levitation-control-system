@@ -5,15 +5,15 @@
   The 2 ultrasonic sensors measure the error between the hand and the ball. Then, this error is implemented into A PID controller. After that, the PID controller's output controls the fan speed.
   
 ## components 
-### 1- Arduino uno and 2 ultrasonic sensors 
+###  Arduino uno and 2 ultrasonic sensors 
 
-### 2- DC fan 
+###  DC fan 
 
-### 3- transparent pipe
+###  transparent pipe
 
-### 4- ping pong ball
+###  ping pong ball
 
-### 5- wooden box
+###  wooden box
 
 
 
